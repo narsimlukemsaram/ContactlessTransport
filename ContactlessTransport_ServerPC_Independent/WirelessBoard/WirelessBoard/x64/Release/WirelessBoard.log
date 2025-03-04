@@ -1,0 +1,24 @@
+﻿  COMToolkit2.cpp
+C:\UCL\SSM\AcoustoBots\WirelessBoard\AsierInhoSerial\src\COMToolkit2.cpp(2,10): fatal  error C1083: Cannot open include file: 'src/COMToolkit2.h': No such file or directory
+  UDPDriver.cpp
+C:\UCL\SSM\AcoustoBots\WirelessBoard\AsierInhoUDP\src\UDPDriver.cpp(1,10): fatal  error C1083: Cannot open include file: 'src/UDPDriver.h': No such file or directory
+  AcoustoBotsShapesGSPATMain.cpp
+C:\UCL\SSM\AcoustoBots\WirelessBoard\WirelessBoard\AcoustoBotsShapesGSPATMain.cpp(1,10): fatal  error C1083: Cannot open include file: 'src/UDPDriver.h': No such file or directory
+  AcoustoBotsShapesGSPATMain_RH.cpp
+C:\UCL\SSM\AcoustoBots\WirelessBoard\WirelessBoard\AcoustoBotsShapesGSPATMain_RH.cpp(1,10): fatal  error C1083: Cannot open include file: 'AsierInhoUDP.h': No such file or directory
+  AcoustoBotsShapesGSPATMain_Hw_Sync.cpp
+C:\UCL\SSM\AcoustoBots\WirelessBoard\WirelessBoard\AcoustoBotsShapesGSPATMain_Hw_Sync.cpp(1,10): fatal  error C1083: Cannot open include file: 'AsierInhoUDP.h': No such file or directory
+  AcoustoBotsShapesGSPATMain_Sw_Sync.cpp
+C:\UCL\SSM\AcoustoBots\WirelessBoard\WirelessBoard\AcoustoBotsShapesGSPATMain_Sw_Sync.cpp(1,10): fatal  error C1083: Cannot open include file: 'AsierInhoUDP.h': No such file or directory
+  AmplitudeModulationMain.cpp
+C:\UCL\SSM\AcoustoBots\WirelessBoard\WirelessBoard\AmplitudeModulationMain.cpp(2,10): fatal  error C1083: Cannot open include file: 'AsierInhoUDP.h': No such file or directory
+  AcoustoBotsGSPATHingeBeadMain.cpp
+C:\UCL\SSM\AcoustoBots\WirelessBoard\WirelessBoard\AcoustoBotsGSPATHingeBeadMain.cpp(1,10): fatal  error C1083: Cannot open include file: 'src/UDPDriver.h': No such file or directory
+  GSPATMain.cpp
+C:\UCL\SSM\AcoustoBots\WirelessBoard\WirelessBoard\GSPATMain.cpp(1,10): fatal  error C1083: Cannot open include file: 'AsierInhoUDP.h': No such file or directory
+  RunFromFileMain.cpp
+C:\UCL\SSM\AcoustoBots\WirelessBoard\WirelessBoard\RunFromFileMain.cpp(2,10): fatal  error C1083: Cannot open include file: 'AsierInhoUDP.h': No such file or directory
+  UDPTestMain.cpp
+C:\UCL\SSM\AcoustoBots\WirelessBoard\WirelessBoard\UDPTestMain.cpp(2,10): fatal  error C1083: Cannot open include file: 'src\UDPDriver.h': No such file or directory
+  AmplitudeModulationSerialMain.cpp
+C:\UCL\SSM\AcoustoBots\WirelessBoard\WirelessBoard\AmplitudeModulationSerialMain.cpp(2,10): fatal  error C1083: Cannot open include file: 'AsierInhoSerial.h': No such file or directory

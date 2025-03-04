@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Helper">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\AsierInhoUDP\src\UDPDriver.cpp">
+      <Filter>Helper</Filter>
+    </ClCompile>
+    <ClCompile Include="UDPTestMain.cpp" />
+    <ClCompile Include="..\AsierInhoSerial\src\COMToolkit2.cpp">
+      <Filter>Helper</Filter>
+    </ClCompile>
+    <ClCompile Include="DriverMain_KeyPress.cpp">
+      <Filter>Helper</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Helper\HelperMethods.h">
+      <Filter>Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="Helper\microTimer.h">
+      <Filter>Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\AsierInhoUDP\src\UDPDriver.h">
+      <Filter>Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\AsierInhoSerial\src\COMToolkit2.h">
+      <Filter>Helper</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="board_38.pat" />
+    <None Include="board_mini.pat" />
+    <None Include="ip_addresses.pat" />
+    <None Include="hologramSolver_V2.cl" />
+  </ItemGroup>
+</Project>

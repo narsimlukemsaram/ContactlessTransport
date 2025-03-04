@@ -1,0 +1,19 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  OpenCLUtilityFunctions.cpp
+  GSPAT_SolverV2.cpp
+C:\UCL\SSM\ContactlessAcousticBots\ContactlessAcousticBots_Server_PC\WirelessBoard\GSPAT_SolverV2\src\SolutionPool.h(3,10): fatal  error C1083: Cannot open include file: 'pthread.h': No such file or directory
+  GSPATV2_CWrapper.cpp
+  HologramSolution.cpp
+C:\UCL\SSM\ContactlessAcousticBots\ContactlessAcousticBots_Server_PC\WirelessBoard\GSPAT_SolverV2\src\HologramSolution.cpp(93,22): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+C:\UCL\SSM\ContactlessAcousticBots\ContactlessAcousticBots_Server_PC\WirelessBoard\GSPAT_SolverV2\src\HologramSolution.cpp(94,21): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+C:\UCL\SSM\ContactlessAcousticBots\ContactlessAcousticBots_Server_PC\WirelessBoard\GSPAT_SolverV2\src\HologramSolution.cpp(95,21): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+C:\UCL\SSM\ContactlessAcousticBots\ContactlessAcousticBots_Server_PC\WirelessBoard\GSPAT_SolverV2\src\HologramSolution.cpp(96,21): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+C:\UCL\SSM\ContactlessAcousticBots\ContactlessAcousticBots_Server_PC\WirelessBoard\GSPAT_SolverV2\src\HologramSolution.cpp(97,20): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+C:\UCL\SSM\ContactlessAcousticBots\ContactlessAcousticBots_Server_PC\WirelessBoard\GSPAT_SolverV2\src\HologramSolution.cpp(98,20): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+C:\UCL\SSM\ContactlessAcousticBots\ContactlessAcousticBots_Server_PC\WirelessBoard\GSPAT_SolverV2\src\HologramSolution.cpp(99,20): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+C:\UCL\SSM\ContactlessAcousticBots\ContactlessAcousticBots_Server_PC\WirelessBoard\GSPAT_SolverV2\src\HologramSolution.cpp(100,20): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+  HologramSolverCL.cpp
+C:\UCL\SSM\ContactlessAcousticBots\ContactlessAcousticBots_Server_PC\WirelessBoard\GSPAT_SolverV2\src\SolutionPool.h(3,10): fatal  error C1083: Cannot open include file: 'pthread.h': No such file or directory
+  SolutionPool.cpp
+C:\UCL\SSM\ContactlessAcousticBots\ContactlessAcousticBots_Server_PC\WirelessBoard\GSPAT_SolverV2\src\SolutionPool.h(3,10): fatal  error C1083: Cannot open include file: 'pthread.h': No such file or directory
+  Generating Code...

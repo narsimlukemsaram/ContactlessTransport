@@ -1,0 +1,18 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  TimeFunctions.cpp
+  AsierInho_V2.cpp
+  AsierInhoImpl_V2.cpp
+  AsierInho_V2_CWrapper.cpp
+  Generating Code...
+     Creating library C:\Users\Sri\Desktop\OpenMPD-NewSolvers\OpenMPD_Driver-main\x64\AsierInho_V2.lib and object C:\Users\Sri\Desktop\OpenMPD-NewSolvers\OpenMPD_Driver-main\x64\AsierInho_V2.exp
+  AsierInho_DLLV2.vcxproj -> C:\Users\Sri\Desktop\OpenMPD-NewSolvers\OpenMPD_Driver-main\x64\AsierInho_V2.dll
+  C:\Users\Sri\Desktop\OpenMPD-NewSolvers\OpenMPD_Driver-main\x64\AsierInho_V2.dll -> C:\CppLlibraries\bin\x64\AsierInho_V2.dll
+  1 File(s) copied
+  C:\Users\Sri\Desktop\OpenMPD-NewSolvers\OpenMPD_Driver-main\x64\AsierInho_V2.lib -> C:\CppLlibraries\lib\AsierInho_V2\AsierInho_V2.lib
+  1 File(s) copied
+  C:\Users\Sri\Desktop\OpenMPD-NewSolvers\OpenMPD_Driver-main\AsierInho_DLLV2\include\AsierInho_V2.h -> C:\CppLlibraries\include\AsierInho_V2\AsierInho_V2.h
+  1 File(s) copied
+  C:\Users\Sri\Desktop\OpenMPD-NewSolvers\OpenMPD_Driver-main\AsierInho_DLLV2\include\AsierInho_V2_CWrapper.h -> C:\CppLlibraries\include\AsierInho_V2\AsierInho_V2_CWrapper.h
+  1 File(s) copied
+  C:\Users\Sri\Desktop\OpenMPD-NewSolvers\OpenMPD_Driver-main\AsierInho_DLLV2\include\AsierInho_V2_Prerequisites.h -> C:\CppLlibraries\include\AsierInho_V2\AsierInho_V2_Prerequisites.h
+  1 File(s) copied

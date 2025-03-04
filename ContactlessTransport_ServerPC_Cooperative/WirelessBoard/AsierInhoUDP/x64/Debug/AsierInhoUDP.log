@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (AsierInhoWireless.vcxproj, AsierInho_V2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  AsierInhoUDP.cpp
+C:\UCL\SSM\ContactlessAcousticBots\ContactlessAcousticBots_Server_PC\WirelessBoard\AsierInhoUDP\src\AsierInhoUDPImpl.h(8,10): fatal  error C1083: Cannot open include file: 'pthread.h': No such file or directory
+  AsierInhoUDPImpl.cpp
+C:\UCL\SSM\ContactlessAcousticBots\ContactlessAcousticBots_Server_PC\WirelessBoard\AsierInhoUDP\src\AsierInhoUDPImpl.h(8,10): fatal  error C1083: Cannot open include file: 'pthread.h': No such file or directory
+  UDPDriver.cpp
+C:\UCL\SSM\ContactlessAcousticBots\ContactlessAcousticBots_Server_PC\WirelessBoard\AsierInhoUDP\src\UDPDriver.cpp(20,29): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...

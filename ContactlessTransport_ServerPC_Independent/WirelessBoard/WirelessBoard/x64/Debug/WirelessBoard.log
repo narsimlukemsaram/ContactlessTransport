@@ -1,0 +1,4 @@
+﻿  DriverMain_KeyPress.cpp
+C:\UCL\SSM\ContactlessTransport\ContactlessTransport_ServerPC_Independent\WirelessBoard\WirelessBoard\DriverMain_KeyPress.cpp(41,17): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\UCL\SSM\ContactlessTransport\ContactlessTransport_ServerPC_Independent\WirelessBoard\WirelessBoard\DriverMain_KeyPress.cpp(64,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  WirelessBoard.vcxproj -> C:\UCL\SSM\ContactlessTransport\ContactlessTransport_ServerPC_Independent\WirelessBoard\x64\Debug\WirelessBoard.exe

@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (AsierInhoWireless.vcxproj, AsierInho_V2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  AsierInhoSerial.cpp
+C:\UCL\SSM\ContactlessAcousticBots\Server_PC_SingleSide\WirelessBoard\AsierInhoSerial\src\AsierInhoSerialImpl.h(8,10): fatal  error C1083: Cannot open include file: 'pthread.h': No such file or directory
+  AsierInhoSerialImpl.cpp
+C:\UCL\SSM\ContactlessAcousticBots\Server_PC_SingleSide\WirelessBoard\AsierInhoSerial\src\AsierInhoSerialImpl.h(8,10): fatal  error C1083: Cannot open include file: 'pthread.h': No such file or directory
+  COMToolkit2.cpp
+  Generating Code...
